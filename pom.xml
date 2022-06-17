@@ -26,7 +26,7 @@
     <properties>
         <commons-lang.version>2.6</commons-lang.version>
         <commons-lang3.version>3.4</commons-lang3.version>
-        <fasjson.version>1.2.45</fasjson.version>
+        <fasjson.version>1.2.83</fasjson.version>
         <druid-starter.version>1.1.10</druid-starter.version>
         <mybatis-plus.version>3.1.1</mybatis-plus.version>
         <maven-jar-plugin.version>3.1.1</maven-jar-plugin.version><!-- 此jar包需低一版本 -->
